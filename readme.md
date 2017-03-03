@@ -1,5 +1,6 @@
 # Self Arming Alarm Device
-- This is the code for an arduino based device that functions as a self arming alarm system.
+- This is the code for an arduino based device that functions as a self arming alarm system.-
+
 ## Details
 Group 6
 Paul Brown, Taylor May
